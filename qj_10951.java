@@ -12,9 +12,6 @@ import java.util.Scanner;
 각 테스트 케이스마다 A+B를 출력한다.
 */
 
-/**
- * qj_10951
- */
 public class qj_10951 {
 
     public static void main(String[] args) {
